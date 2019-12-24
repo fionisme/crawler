@@ -8,6 +8,7 @@ With oXML
     
     'open Request method,Request URL,False
     'send
+    oXML.Open "GET", "https://norway.twsthr.info/StockHolders.aspx?stock=2330", 0 
     oXML.send
     
     '
