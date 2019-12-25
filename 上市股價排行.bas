@@ -1,7 +1,7 @@
 Attribute VB_Name = "Module1"
 'Request URL: https://tw.stock.yahoo.com/d/i/rank.php?t=pri&e=tse
 'Request Method: GET
-Sub ¤W¥«ªÑ»ù±Æ¦æªí()
+Sub ä¸Šå¸‚è‚¡åƒ¹æŽ’è¡Œè¡¨()
 Dim oXML  As Object
 Set oXML = CreateObject("winhttp.winhttprequest.5.1")
 
